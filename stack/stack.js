@@ -1,10 +1,20 @@
+/*
+
+A stack is a container of objects that are inserted and removed according to the last-
+in first-out (LIFO) principle. Objects can be inserted into a stack at any time, but
+only the most recently inserted (that is, “last”) object can be removed at any time.
+
+*/
+
 class Stack {
   constructor() {
     this.array = [];
   }
 
-  push(x) {
+  /* insert elements to the stack and catch other args */
+  push(x, ...args) {
     this.array.push(x);
+    args.map(elem=> this.array.push(elem))
   }
 
   /* return top most element in the stack 
@@ -19,6 +29,11 @@ class Stack {
   peek() {
     if (this.isEmpity()) return "Empity";
     return this.array[this.array.length - 1];
+  }
+
+  /* returns size of the stack */
+  size() {
+    return this.array.length;
   }
 
   isEmpity() {
