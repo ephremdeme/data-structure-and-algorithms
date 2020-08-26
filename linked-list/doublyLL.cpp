@@ -2,6 +2,15 @@
 
 using namespace std;
 
+/*
+
+A node in a Doubly linked list has the following properties: data, prev and next. data
+is the value for the linked list node, next and prev is a pointer to next and previous instance of 
+ListNode
+
+*/
+
+
 template <class T>
 class Node
 {
@@ -135,14 +144,30 @@ template <class T> int DoublyLinkedList<T>::removeBack()
 /*
     print Linked list element while traversing the nodes
 */
+
+/* Traverse the linked list while printing data in forward and backward
+  
+  Forward: 1->2->3->4 
+  Backward: 4<-3<-2<-1
+
+  */
 template <class T> void DoublyLinkedList<T>::print()
 {
     Node<T>* tmp = header;
+    Node<T>* revers;
     while(!tmp==NULL)
     {
         cout<<tmp->data<<"\t";
+        revers = tmp;
         tmp = tmp->next;
     }
+    cout<<endl;
+
+    while(!revers==NULL){
+        cout<<revers->data<<"\t";
+        revers = revers->prev;
+    }
+
     cout<<endl;
 }
 
@@ -155,7 +180,7 @@ int main()
     ll.addFront(3);
     ll.addBack(0);
 
-    ll.print();  //3 2 1 0
+    ll.print();  //3 2 1 0 and 0, 1, 2 ,3
     ll.removeBack();
     ll.removeFront();
     ll.print(); // 2 1

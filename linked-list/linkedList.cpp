@@ -2,6 +2,16 @@
 
 using namespace std;
 
+
+/*
+
+A node in a singly linked list has the following properties: data and next. data
+is the value for the linked list node, and next is a pointer to another instance of 
+ListNode
+
+*/
+
+
 template <class T>
 class Node
 {
@@ -9,6 +19,12 @@ public:
     T data;
     Node<T>* next;
 };
+
+/*
+
+A linked list, in its simplest form, is a collection of nodes that together form a
+linear ordering.
+*/
 
 template <class T>
 class LinkedList
