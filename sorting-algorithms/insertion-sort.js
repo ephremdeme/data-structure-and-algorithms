@@ -27,4 +27,8 @@ function insertionSort(arr) {
   return arr;
 }
 
+var arr = [4, 1, 3, 2, 1];
+
+console.log(insertionSort(arr))
+
 // This has the time complexity of O(n^2)
