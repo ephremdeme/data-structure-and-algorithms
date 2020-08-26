@@ -53,7 +53,7 @@ class LinkedList {
   /* Delete a node with a given value and return a bool response */
   delete(value) {
     let temp = this.root;
-    if (temp == null) console.log("Empity");
+    if (temp == null) console.log("Empty");
     let prevNode = temp; // a node previous to the node to be deleted; eg) 4 in 4->5->6  while 5 to be deleted
 
     /* Delete first elemnt check */
@@ -91,7 +91,7 @@ class LinkedList {
   /* Traverse the linked list while printing data */
   print() {
     let temp = this.root;
-    if (temp == null) console.log("Empity");
+    if (temp == null) console.log("Empty");
     while (temp != null) {
       console.log(temp.data);
       temp = temp.next;

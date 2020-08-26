@@ -7,7 +7,6 @@ any time.
 
 */
 
-
 class Queue {
   constructor() {
     this.array = [];
@@ -23,23 +22,23 @@ class Queue {
       and removes it from the queue 
       Underflow if queue is empty  */
   dequeue() {
-    if (this.isEmpity()) return "Underflow";
+    if (this.isEmpty()) return "Underflow";
     return this.array.shift();
   }
 
   /* returns front element without deleting it*/
   peek() {
-    if (this.isEmpity()) return "Empity";
+    if (this.isEmpty()) return "Empty";
     return this.array[0];
   }
 
   /* returns the rear element */
   rear() {
-    if (this.isEmpity()) return "Empity";
+    if (this.isEmpty()) return "Empty";
     return this.array[this.size() - 1];
   }
 
-  isEmpity() {
+  isEmpty() {
     return this.array.length == 0;
   }
 
@@ -66,4 +65,4 @@ st.enqueue(1);
 st.enqueue(2, 3, 4, 5);
 st.printQueue();
 console.log(st.dequeue());
-console.log(st.isEmpity(), st.peek(), st.dequeue(), st.enqueue(6), st.dequeue());
+console.log(st.isEmpty(), st.peek(), st.dequeue(), st.enqueue(6), st.dequeue());

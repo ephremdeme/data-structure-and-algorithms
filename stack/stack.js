@@ -14,20 +14,20 @@ class Stack {
   /* insert elements to the stack and catch other args */
   push(x, ...args) {
     this.array.push(x);
-    args.map(elem=> this.array.push(elem))
+    args.map((elem) => this.array.push(elem));
   }
 
   /* return top most element in the stack 
     and removes it from the stack 
     Underflow if stack is empty  */
   pop() {
-    if (this.isEmpity()) return "Underflow";
+    if (this.isEmpty()) return "Underflow";
     return this.array.pop();
   }
 
   /* Used to get top most element without deleting it*/
   peek() {
-    if (this.isEmpity()) return "Empity";
+    if (this.isEmpty()) return "Empty";
     return this.array[this.array.length - 1];
   }
 
@@ -36,12 +36,12 @@ class Stack {
     return this.array.length;
   }
 
-  isEmpity() {
+  isEmpty() {
     return this.array.length == 0;
   }
 
-  toString(){
-      return this.array.toString()
+  toString() {
+    return this.array.toString();
   }
 
   printStack() {
@@ -49,7 +49,7 @@ class Stack {
     this.array.map((elem) => {
       str += elem + ", ";
     });
-    return str.substring(0, str.length-2);
+    return str.substring(0, str.length - 2);
   }
 }
 
