@@ -66,4 +66,4 @@ st.enqueue(1);
 st.enqueue(2, 3, 4, 5);
 st.printQueue();
 console.log(st.dequeue());
-console.log(st.isEmpity(), st.peek(), st.dequeue(), st.dequeue());
+console.log(st.isEmpity(), st.peek(), st.dequeue(), st.enqueue(6), st.dequeue());
