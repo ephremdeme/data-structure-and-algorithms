@@ -19,15 +19,15 @@ linear ordering.
 
 class LinkedList {
   constructor() {
-    this.root = null;
+    this._root = null;
     this.count = 0;
   }
 
   /* insert Node at the end */
   insert(data) {
-    let temp = this.root;
-    if (this.root == null) {
-      this.root = new ListNode(data);
+    let temp = this._root;
+    if (this._root == null) {
+      this._root = new ListNode(data);
       this.count++;
       return;
     }
@@ -45,21 +45,21 @@ class LinkedList {
 
   insertFront(data) {
     let newNode = new ListNode(data); //data->null;
-    newNode.next = this.root; // data->root;
-    this.root = newNode;
+    newNode.next = this._root; // data->root;
+    this._root = newNode;
     this.count++;
   }
 
   /* Delete a node with a given value and return a bool response */
   delete(value) {
-    let temp = this.root;
+    let temp = this._root;
     if (temp == null) console.log("Empty");
     let prevNode = temp; // a node previous to the node to be deleted; eg) 4 in 4->5->6  while 5 to be deleted
 
     /* Delete first elemnt check */
-    if (this.root.data == value) {
+    if (this._root.data == value) {
       console.log("A node deleted successfully!");
-      this.root = this.root.next;
+      this._root = this._root.next;
       this.count--;
       return true;
     }
@@ -90,7 +90,7 @@ class LinkedList {
 
   /* Traverse the linked list while printing data */
   print() {
-    let temp = this.root;
+    let temp = this._root;
     if (temp == null) console.log("Empty");
     while (temp != null) {
       console.log(temp.data);

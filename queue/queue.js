@@ -9,13 +9,13 @@ any time.
 
 class Queue {
   constructor() {
-    this.array = [];
+    this._array = [];
   }
 
   /* inserts element to the back of a queue and catch args */
   enqueue(x, ...args) {
-    this.array.push(x);
-    args.map((elem) => this.array.push(elem));
+    this._array.push(x);
+    args.map((elem) => this._array.push(elem));
   }
 
   /* return front element in the queue 
@@ -23,37 +23,37 @@ class Queue {
       Underflow if queue is empty  */
   dequeue() {
     if (this.isEmpty()) return "Underflow";
-    return this.array.shift();
+    return this._array.shift();
   }
 
   /* returns front element without deleting it*/
   peek() {
     if (this.isEmpty()) return "Empty";
-    return this.array[0];
+    return this._array[0];
   }
 
   /* returns the rear element */
   rear() {
     if (this.isEmpty()) return "Empty";
-    return this.array[this.size() - 1];
+    return this._array[this.size() - 1];
   }
 
   isEmpty() {
-    return this.array.length == 0;
+    return this._array.length == 0;
   }
 
   /* returns size of the queue */
   size() {
-    return this.array.length;
+    return this._array.length;
   }
 
   toString() {
-    return this.array.toString();
+    return this._array.toString();
   }
 
   printQueue() {
     let str = "";
-    this.array.map((elem) => {
+    this._array.map((elem) => {
       str += elem + ", ";
     });
     return str.substring(0, str.length - 2);

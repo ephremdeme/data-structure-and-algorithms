@@ -8,13 +8,13 @@ only the most recently inserted (that is, “last”) object can be removed at a
 
 class Stack {
   constructor() {
-    this.array = [];
+    this._array = [];
   }
 
   /* insert elements to the stack and catch other args */
   push(x, ...args) {
-    this.array.push(x);
-    args.map((elem) => this.array.push(elem));
+    this._array.push(x);
+    args.map((elem) => this._array.push(elem));
   }
 
   /* return top most element in the stack 
@@ -22,31 +22,31 @@ class Stack {
     Underflow if stack is empty  */
   pop() {
     if (this.isEmpty()) return "Underflow";
-    return this.array.pop();
+    return this._array.pop();
   }
 
   /* Used to get top most element without deleting it*/
   peek() {
     if (this.isEmpty()) return "Empty";
-    return this.array[this.array.length - 1];
+    return this._array[this._array.length - 1];
   }
 
   /* returns size of the stack */
   size() {
-    return this.array.length;
+    return this._array.length;
   }
 
   isEmpty() {
-    return this.array.length == 0;
+    return this._array.length == 0;
   }
 
   toString() {
-    return this.array.toString();
+    return this._array.toString();
   }
 
   printStack() {
     let str = "";
-    this.array.map((elem) => {
+    this._array.map((elem) => {
       str += elem + ", ";
     });
     return str.substring(0, str.length - 2);
