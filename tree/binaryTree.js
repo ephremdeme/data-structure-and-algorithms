@@ -7,16 +7,6 @@ class BinaryTree {
     };
   }
 
-  print(root) {
-    if (root == null) {
-      return;
-    }
-
-    console.log(root.data);
-    this.print(root.left);
-    this.print(root.right);
-  }
-
   insert(data) {
     insertHelper(data, this._node);
     function insertHelper(data, root) {
@@ -46,6 +36,17 @@ class BinaryTree {
           } else insertHelper(data, root.left);
         }
       }
+    }
+  }
+
+  inOrderTraverse(){
+    return inOrderTraverseHelper(this._node);
+    function inOrderTraverseHelper(root){
+      if(root==null) return;
+      inOrderTraverseHelper(root.left);
+      console.log(root.data);
+      inOrderTraverseHelper(root.right)
+      
     }
   }
 
