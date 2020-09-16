@@ -39,6 +39,10 @@ class BinaryTree {
     }
   }
 
+  /**
+   * In-order traversal visits nodes in the following order: left, root (the current node),
+   * right.
+   */
   inOrderTraverse() {
     return inOrderTraverseHelper(this._node);
     function inOrderTraverseHelper(root) {
@@ -49,6 +53,10 @@ class BinaryTree {
     }
   }
 
+  /**
+   * Pre-order traversal visits nodes in the following order: root (the current node), left.
+   * right.
+   */
   preOrderTraverse() {
     return preOrderTraverseHelper(this._node);
     function preOrderTraverseHelper(root) {
@@ -60,6 +68,12 @@ class BinaryTree {
     }
   }
 
+  /**
+   * Post-order traversal visits nodes in the following order: left, right, 
+   * root (the current node)
+   * 
+   */
+
   postOrderTraverse() {
     return postOrderTraverseHelper(this._node);
     function postOrderTraverseHelper(root) {
@@ -70,7 +84,11 @@ class BinaryTree {
     }
   }
 
-  search(data, root) {
+  /**
+   * Searchs the BST for the given key
+   * @param {int} data 
+   */
+  search(data) {
     return serachHelper(data, this._node);
     function serachHelper(data, root) {
       if (data == root.data) {
@@ -84,6 +102,10 @@ class BinaryTree {
     }
   }
 
+  /**
+   * Finds minimum element by traversing to left nodes until the last element
+   */
+
   findMin() {
     return findMinRec(this._node);
 
@@ -95,6 +117,9 @@ class BinaryTree {
     }
   }
 
+  /**
+   * Finds the maximum element by traversing to the right nodes.
+   */
   findMax() {
     return findMaxRec(this._node);
 
