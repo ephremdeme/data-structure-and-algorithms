@@ -60,6 +60,16 @@ class BinaryTree {
     }
   }
 
+  postOrderTraverse() {
+    return postOrderTraverseHelper(this._node);
+    function postOrderTraverseHelper(root) {
+      if (root == null) return;
+      this.print(root.left);
+      this.print(root.right);
+      console.log(root.data);
+    }
+  }
+
   search(data, root) {
     return serachHelper(data, this._node);
     function serachHelper(data, root) {
