@@ -39,14 +39,24 @@ class BinaryTree {
     }
   }
 
-  inOrderTraverse(){
+  inOrderTraverse() {
     return inOrderTraverseHelper(this._node);
-    function inOrderTraverseHelper(root){
-      if(root==null) return;
+    function inOrderTraverseHelper(root) {
+      if (root == null) return;
       inOrderTraverseHelper(root.left);
       console.log(root.data);
-      inOrderTraverseHelper(root.right)
-      
+      inOrderTraverseHelper(root.right);
+    }
+  }
+
+  preOrderTraverse() {
+    return preOrderTraverseHelper(this._node);
+    function preOrderTraverseHelper(root) {
+      if (root == null) return;
+
+      console.log(root.data);
+      this.print(root.left);
+      this.print(root.right);
     }
   }
 
@@ -97,4 +107,3 @@ bst.insert(8);
 console.log(bst.search(8));
 console.log(bst.findMin());
 console.log(bst.findMax());
-
