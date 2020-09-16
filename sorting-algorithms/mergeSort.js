@@ -26,4 +26,5 @@ function mergeSort(array) {
 
   return merge(mergeSort(leftArray), mergeSort(rightArray));
 }
-console.log( mergeSort([6, 1, 23, 4, 2, 3])); // [1, 2, 3, 4, 6, 23]
+console.log( mergeSort([6, 9, 81, 23, 4, 2, 3])); // [1, 2, 3, 4, 6, 23]
+console.log( mergeSort([-6, -9, -81, -23, -4, 2, 3])); // [1, 2, 3, 4, 6, 23]
