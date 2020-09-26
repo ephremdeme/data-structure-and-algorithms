@@ -17,18 +17,5 @@ Anyone can star, fork or clone this repo and can add any type of data structures
 
 # Contributing Guides
 
-- Fork the project
+Read the guide lines here [CONTRIBUTING.md](CONTRIBUTING.md)
 
-- Clone to your local machine
-
-- Find an issue to solve
-
-- Or Implement any DSA
-
-- Comment your changes and commits
-
-- Push your changes
-
-- Click the Compare & pull request button
-
-- Create new Pull Request to open new PR
