@@ -10,19 +10,6 @@ This Repository is meant for everyone to create code and learn to contribute to 
 Anyone can star, fork or clone this repo and can add any type of data structures or algorithm codes and can raise PR during hacktoberfest.
 
 
-# Contributors
-
-<a href="https://github.com/ephremdeme/data-structure-and-algorithms/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ephremdeme/data-structure-and-algorithms" />
-</a>
-
-
-
-# Contributing Guides
-
-Read the guide lines here [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -41,3 +28,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+# Contributing Guides
+
+Read the guide lines here [CONTRIBUTING.md](CONTRIBUTING.md)
