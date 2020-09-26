@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ritik",
+      "name": "ritik",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1125629?v=4",
+      "profile": "https://github.com/ritik",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "data-structure-and-algorithms",
+  "projectOwner": "ephremdeme",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
