@@ -20,9 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ritik"><img src="https://avatars3.githubusercontent.com/u/1125629?v=4" width="100px;" alt=""/><br /><sub><b>ritik</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=ritik" title="Code">💻</a></td>
-
     <td align="center"><a href="https://github.com/Muhib007dev"><img src="https://avatars1.githubusercontent.com/u/31381448?v=4" width="100px;" alt=""/><br /><sub><b>Muhib Shaikh</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Muhib007dev" title="Code">💻</a></td>
-
     <td align="center"><a href="http://sparshsihotiya.me/"><img src="https://avatars2.githubusercontent.com/u/58358499?v=4" width="100px;" alt=""/><br /><sub><b>Sparsh Sihotiya</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=sparshs413" title="Code">💻</a></td>
   </tr>
 </table>
