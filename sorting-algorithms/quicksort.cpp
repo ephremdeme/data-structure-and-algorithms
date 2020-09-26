@@ -4,11 +4,6 @@ using namespace std;
 void quicksort(int* a,int low,int high){
 	if(low>=high)
 		return;
-	cout<<"a = ";
-	for(int i=low;i<high;i++){
-		cout<<a[i]<<" ";
-	}
-	cout<<endl;
 	int i=low-1,j=low;
 	while(j<high){
 		if(a[j]<=a[high]){
