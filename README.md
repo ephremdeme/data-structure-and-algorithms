@@ -22,6 +22,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ritik"><img src="https://avatars3.githubusercontent.com/u/1125629?v=4" width="100px;" alt=""/><br /><sub><b>ritik</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=ritik" title="Code">💻</a></td>
     <td align="center"><a href="http://sparshsihotiya.me/"><img src="https://avatars2.githubusercontent.com/u/58358499?v=4" width="100px;" alt=""/><br /><sub><b>Sparsh Sihotiya</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=sparshs413" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/amanjhurani"><img src="https://avatars2.githubusercontent.com/u/47776459?v=4" width="100px;" alt=""/><br /><sub><b>Aman Jhurani</b></sub></a><br /><a href="#ideas-amanjhurani" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/PRITI24"><img src="https://avatars3.githubusercontent.com/u/42322432?v=4" width="100px;" alt=""/><br /><sub><b>Priti Jha</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=PRITI24" title="Code">💻</a></td>
+    <td align="center"><a href="https://dev.to/tusharkashyap63"><img src="https://avatars3.githubusercontent.com/u/65089058?v=4" width="100px;" alt=""/><br /><sub><b>Tushar Kashyap</b></sub></a><br /><a href="#design-tusharkashyap63" title="Design">🎨</a></td>
   </tr>
 </table>
 
