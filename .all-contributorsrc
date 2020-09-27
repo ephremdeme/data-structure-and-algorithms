@@ -135,6 +135,15 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "ek08",
+      "name": "Ehtesham",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/63246960?v=4",
+      "profile": "https://github.com/ek08",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
