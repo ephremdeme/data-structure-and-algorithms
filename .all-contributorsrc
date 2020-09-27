@@ -1,7 +1,5 @@
 {
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
   "commit": false,
   "contributors": [
@@ -10,71 +8,56 @@
       "name": "ritik",
       "avatar_url": "https://avatars3.githubusercontent.com/u/1125629?v=4",
       "profile": "https://github.com/ritik",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
     },
     {
       "login": "sparshs413",
       "name": "Sparsh Sihotiya",
       "avatar_url": "https://avatars2.githubusercontent.com/u/58358499?v=4",
       "profile": "http://sparshsihotiya.me/",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
     },
     {
       "login": "DEBADRIBASAK",
       "name": "DEBADRIBASAK",
       "avatar_url": "https://avatars2.githubusercontent.com/u/32904247?v=4",
       "profile": "http://DEBADRIBASAK.github.io",
-      "contributions": [
-        "ideas"
-      ]
+      "contributions": ["ideas"]
     },
     {
       "login": "TastySalad",
       "name": "Salad",
       "avatar_url": "https://avatars2.githubusercontent.com/u/29716545?v=4",
       "profile": "https://github.com/TastySalad",
-      "contributions": [
-        "code"
-      ]
-    }
+      "contributions": ["code"]
+    },
+    {
       "login": "gulvaibhav20",
       "name": "Vaibhav Gulati",
       "avatar_url": "https://avatars0.githubusercontent.com/u/43981794?v=4",
       "profile": "https://github.com/gulvaibhav20",
-      "contributions": [
-        "ideas"
-      ]
+      "contributions": ["ideas"]
     },
     {
       "login": "amanjhurani",
       "name": "Aman Jhurani",
       "avatar_url": "https://avatars2.githubusercontent.com/u/47776459?v=4",
       "profile": "https://github.com/amanjhurani",
-      "contributions": [
-        "ideas"
-        ]
+      "contributions": ["ideas"]
     },
     {
       "login": "PRITI24",
       "name": "Priti Jha",
       "avatar_url": "https://avatars3.githubusercontent.com/u/42322432?v=4",
       "profile": "https://github.com/PRITI24",
-      "contributions": [
-        "code"
-       ]
-     },
-     {
+      "contributions": ["code"]
+    },
+    {
       "login": "tusharkashyap63",
       "name": "Tushar Kashyap",
       "avatar_url": "https://avatars3.githubusercontent.com/u/65089058?v=4",
       "profile": "https://dev.to/tusharkashyap63",
-      "contributions": [
-        "design"
-      ]
+      "contributions": ["design"]
     }
   ],
   "contributorsPerLine": 7,
