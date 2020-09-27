@@ -9,4 +9,8 @@ function reverseNumber(num = 0) {
   return ans;
 }
 
-console.log(reverseNumber(123456));
+// console.log(reverseNumber(123456));
+
+var num = prompt("Enter a number to reverse: ");
+console.log(reverseNumber(num));
+
