@@ -1,6 +1,6 @@
 # Implement Any Data Structure with Your Prefered Language
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
@@ -31,6 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://dev.to/tusharkashyap63"><img src="https://avatars3.githubusercontent.com/u/65089058?v=4" width="100px;" alt=""/><br /><sub><b>Tushar Kashyap</b></sub></a><br /><a href="#design-tusharkashyap63" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/LuisFerTR"><img src="https://avatars1.githubusercontent.com/u/47088091?v=4" width="100px;" alt=""/><br /><sub><b>Luis F. Talavera R.</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=LuisFerTR" title="Code">💻</a></td>
     <td align="center"><a href="http://francois.poguet.com"><img src="https://avatars3.githubusercontent.com/u/59446609?v=4" width="100px;" alt=""/><br /><sub><b>François Poguet</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=FrancoisPog" title="Code">💻</a> <a href="#ideas-FrancoisPog" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/thomasajai001"><img src="https://avatars2.githubusercontent.com/u/56961709?v=4" width="100px;" alt=""/><br /><sub><b>thomasajai001</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=thomasajai001" title="Code">💻</a></td>
   </tr>
 </table>
 
