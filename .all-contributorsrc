@@ -125,6 +125,16 @@
         "design",
         "ideas"
       ]
+    },
+    {
+      "login": "nikki003",
+      "name": "Nikki Bhalodiya",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43932492?v=4",
+      "profile": "https://github.com/nikki003",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
