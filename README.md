@@ -1,7 +1,10 @@
 # Implement Any Data Structure with Your Prefered Language
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![Issues](https://img.shields.io/github/issues/ephremdeme/data-structure-and-algorithms)
+![Pull Requests](https://img.shields.io/github/issues-pr/ephremdeme/data-structure-and-algorithms)
+![Forks](https://img.shields.io/github/forks/ephremdeme/data-structure-and-algorithms)
+![Stars](https://img.shields.io/github/stars/ephremdeme/data-structure-and-algorithms)
 
 Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
 
