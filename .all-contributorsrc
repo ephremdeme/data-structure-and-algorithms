@@ -85,6 +85,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "FrancoisPog",
+      "name": "François Poguet",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59446609?v=4",
+      "profile": "http://francois.poguet.com",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
