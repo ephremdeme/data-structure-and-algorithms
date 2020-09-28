@@ -173,6 +173,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "milan090",
+      "name": "Milan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56679289?v=4",
+      "profile": "https://github.com/milan090",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
