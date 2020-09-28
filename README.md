@@ -39,6 +39,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/nikki003"><img src="https://avatars3.githubusercontent.com/u/43932492?v=4" width="100px;" alt=""/><br /><sub><b>Nikki Bhalodiya</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=nikki003" title="Code">💻</a> <a href="#design-nikki003" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/ek08"><img src="https://avatars1.githubusercontent.com/u/63246960?v=4" width="100px;" alt=""/><br /><sub><b>Ehtesham</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=ek08" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rishabh15b"><img src="https://avatars3.githubusercontent.com/u/55358003?v=4" width="100px;" alt=""/><br /><sub><b>Rishabh Balaiwar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=rishabh15b" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
