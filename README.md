@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/rishabh15b"><img src="https://avatars3.githubusercontent.com/u/55358003?v=4" width="100px;" alt=""/><br /><sub><b>Rishabh Balaiwar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=rishabh15b" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/AnshMishra2001"><img src="https://avatars0.githubusercontent.com/u/55917516?v=4" width="100px;" alt=""/><br /><sub><b>AnshMishra2001</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=AnshMishra2001" title="Code">💻</a> <a href="#ideas-AnshMishra2001" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/mananchawla2005"><img src="https://avatars3.githubusercontent.com/u/42414965?v=4" width="100px;" alt=""/><br /><sub><b>Manan Chawla</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=mananchawla2005" title="Code">💻</a> <a href="#ideas-mananchawla2005" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
