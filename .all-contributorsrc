@@ -202,6 +202,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "Richie94",
+      "name": "Richard Kwasnicki",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7793923?v=4",
+      "profile": "https://github.com/Richie94",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
