@@ -48,6 +48,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/meghnabajoria"><img src="https://avatars0.githubusercontent.com/u/50470784?v=4" width="100px;" alt=""/><br /><sub><b>meghnabajoria</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=meghnabajoria" title="Code">💻</a> <a href="#ideas-meghnabajoria" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Richie94"><img src="https://avatars1.githubusercontent.com/u/7793923?v=4" width="100px;" alt=""/><br /><sub><b>Richard Kwasnicki</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Richie94" title="Code">💻</a> <a href="#design-Richie94" title="Design">🎨</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://iamvpa.github.io/pw/"><img src="https://avatars1.githubusercontent.com/u/48381326?v=4" width="100px;" alt=""/><br /><sub><b>Vishnu Priy Agnihotri</b></sub></a><br /><a href="#design-iamvpa" title="Design">🎨</a> <a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=iamvpa" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
