@@ -212,6 +212,16 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "iamvpa",
+      "name": "Vishnu Priy Agnihotri",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/48381326?v=4",
+      "profile": "https://iamvpa.github.io/pw/",
+      "contributions": [
+        "design",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
