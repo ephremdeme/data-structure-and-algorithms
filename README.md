@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://iamvpa.github.io/pw/"><img src="https://avatars1.githubusercontent.com/u/48381326?v=4" width="100px;" alt=""/><br /><sub><b>Vishnu Priy Agnihotri</b></sub></a><br /><a href="#design-iamvpa" title="Design">🎨</a> <a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=iamvpa" title="Code">💻</a></td>
     <td align="center"><a href="http://kanhakhatri065@gmail.com"><img src="https://avatars2.githubusercontent.com/u/47973882?v=4" width="100px;" alt=""/><br /><sub><b>Kanha Khatri</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Kanhakhatri065" title="Code">💻</a> <a href="#ideas-Kanhakhatri065" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/MayankSingh173"><img src="https://avatars0.githubusercontent.com/u/60806242?v=4" width="100px;" alt=""/><br /><sub><b>MayankSingh173</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=MayankSingh173" title="Code">💻</a></td>
+    <td align="center"><a href="https://hridayeshsharma.com"><img src="https://avatars2.githubusercontent.com/u/12582432?v=4" width="100px;" alt=""/><br /><sub><b>Hridayesh Sharma</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=vyasriday" title="Code">💻</a></td>
   </tr>
 </table>
 
