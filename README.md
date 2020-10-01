@@ -55,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://hridayeshsharma.com"><img src="https://avatars2.githubusercontent.com/u/12582432?v=4" width="100px;" alt=""/><br /><sub><b>Hridayesh Sharma</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=vyasriday" title="Code">💻</a></td>
     <td align="center"><a href="http://vivekagent47.github.io"><img src="https://avatars2.githubusercontent.com/u/48582432?v=4" width="100px;" alt=""/><br /><sub><b>Vivek Chauhan</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Vivekagent47" title="Code">💻</a> <a href="#ideas-Vivekagent47" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/parinay602"><img src="https://avatars0.githubusercontent.com/u/68812492?v=4" width="100px;" alt=""/><br /><sub><b>parinay602</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=parinay602" title="Code">💻</a></td>
+    <td align="center"><a href="http://yashasvimisra@outlook.com"><img src="https://avatars0.githubusercontent.com/u/54177363?v=4" width="100px;" alt=""/><br /><sub><b>Yashasvi Misra</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=yashasvimisra2798" title="Code">💻</a> <a href="#ideas-yashasvimisra2798" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
