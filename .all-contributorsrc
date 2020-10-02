@@ -334,6 +334,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "MaticBabnik",
+      "name": "Matic Babnik",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19249905?v=4",
+      "profile": "http://yeet.si",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
