@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/swastikchugh"><img src="https://avatars0.githubusercontent.com/u/17880938?v=4" width="100px;" alt=""/><br /><sub><b>swastikchugh</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=swastikchugh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Palak-137"><img src="https://avatars0.githubusercontent.com/u/54790525?v=4" width="100px;" alt=""/><br /><sub><b>Lethal_Moana</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Palak-137" title="Code">💻</a></td>
   </tr>
 </table>
 
