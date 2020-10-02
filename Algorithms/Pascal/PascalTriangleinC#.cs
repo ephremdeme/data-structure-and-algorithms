@@ -1,7 +1,7 @@
 
 using System; 
   
-class GFG  
+class GAURAV  
 { 
 public static void printPascal(int n) 
 { 
