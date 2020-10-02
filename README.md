@@ -66,6 +66,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pankajcoder1.github.io/Pankajcoder1/"><img src="https://avatars0.githubusercontent.com/u/54040417?v=4" width="100px;" alt=""/><br /><sub><b>Pankaj Kumar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Pankajcoder1" title="Code">💻</a> <a href="#ideas-Pankajcoder1" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://yeet.si"><img src="https://avatars3.githubusercontent.com/u/19249905?v=4" width="100px;" alt=""/><br /><sub><b>Matic Babnik</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=MaticBabnik" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://webfolio-unnati.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/54355445?v=4" width="100px;" alt=""/><br /><sub><b>Unnati Mishra</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=CodesbyUnnati" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
