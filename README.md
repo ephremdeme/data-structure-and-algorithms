@@ -57,6 +57,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/parinay602"><img src="https://avatars0.githubusercontent.com/u/68812492?v=4" width="100px;" alt=""/><br /><sub><b>parinay602</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=parinay602" title="Code">💻</a></td>
     <td align="center"><a href="http://yashasvimisra@outlook.com"><img src="https://avatars0.githubusercontent.com/u/54177363?v=4" width="100px;" alt=""/><br /><sub><b>Yashasvi Misra</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=yashasvimisra2798" title="Code">💻</a> <a href="#ideas-yashasvimisra2798" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/swastikchugh"><img src="https://avatars0.githubusercontent.com/u/17880938?v=4" width="100px;" alt=""/><br /><sub><b>swastikchugh</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=swastikchugh" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
