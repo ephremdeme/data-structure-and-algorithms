@@ -75,6 +75,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://nikhilrevankar.ml"><img src="https://avatars2.githubusercontent.com/u/27147431?v=4" width="100px;" alt=""/><br /><sub><b>Nikhil V Revankar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=nikhil3198" title="Code">💻</a> <a href="#design-nikhil3198" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/pranavkhapra"><img src="https://avatars2.githubusercontent.com/u/66990090?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Khapra</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=pranavkhapra" title="Code">💻</a> <a href="#design-pranavkhapra" title="Design">🎨</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SATAKSHI08"><img src="https://avatars2.githubusercontent.com/u/56965113?v=4" width="100px;" alt=""/><br /><sub><b>zn08</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=SATAKSHI08" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
