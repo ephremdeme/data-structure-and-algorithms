@@ -1,10 +1,6 @@
 # Implement Any Data Structure with Your Prefered Language
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
-![Issues](https://img.shields.io/github/issues/ephremdeme/data-structure-and-algorithms)
-![Pull Requests](https://img.shields.io/github/issues-pr/ephremdeme/data-structure-and-algorithms)
-![Forks](https://img.shields.io/github/forks/ephremdeme/data-structure-and-algorithms)
-![Stars](https://img.shields.io/github/stars/ephremdeme/data-structure-and-algorithms)
+[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
@@ -81,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://cybertron-avneesh.github.io/My-Website/"><img src="https://avatars3.githubusercontent.com/u/54072374?v=4" width="100px;" alt=""/><br /><sub><b>Avneesh Kumar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Cybertron-Avneesh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Harshalszz"><img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100px;" alt=""/><br /><sub><b>Harshal S Zodape </b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Harshalszz" title="Code">💻</a></td>
     <td align="center"><a href="https://hannibal404.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/54623625?v=4" width="100px;" alt=""/><br /><sub><b>Pradyumn Singh Rahar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Hannibal404" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/khare-agraj"><img src="https://avatars3.githubusercontent.com/u/57792711?v=4" width="100px;" alt=""/><br /><sub><b>Agraj Khare</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=khare-agraj" title="Code">💻</a></td>
   </tr>
 </table>
 
