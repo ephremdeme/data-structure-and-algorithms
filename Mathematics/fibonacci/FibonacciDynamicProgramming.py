@@ -17,5 +17,5 @@ def fibonacci(n):
     return FibArray[n] 
 
 
-n=int(input("Plese enter a number: "))
+n=int(input("Please enter a number: "))
 print(fibonacci(n))
