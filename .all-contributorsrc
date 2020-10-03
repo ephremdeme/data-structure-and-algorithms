@@ -381,6 +381,53 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "ANKITAKHAN",
+      "name": "ANKITA KHAN",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44711628?v=4",
+      "profile": "https://github.com/ANKITAKHAN",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nikhil3198",
+      "name": "Nikhil V Revankar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/27147431?v=4",
+      "profile": "http://nikhilrevankar.ml",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "pranavkhapra",
+      "name": "Pranav Khapra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/66990090?v=4",
+      "profile": "https://github.com/pranavkhapra",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "SATAKSHI08",
+      "name": "zn08",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/56965113?v=4",
+      "profile": "https://github.com/SATAKSHI08",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Cybertron-Avneesh",
+      "name": "Avneesh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54072374?v=4",
+      "profile": "https://cybertron-avneesh.github.io/My-Website/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
