@@ -352,6 +352,35 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "codermind-divya",
+      "name": "Divya Jain",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/49811570?v=4",
+      "profile": "https://github.com/codermind-divya",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mnb27",
+      "name": "Aman Bilaiya",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52792904?v=4",
+      "profile": "https://github.com/mnb27",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "brijeshsos66",
+      "name": "BRIJESH KUMAR",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36602697?v=4",
+      "profile": "https://www.linkedin.com/in/brijesh-kumar-887b05174",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,

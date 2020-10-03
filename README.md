@@ -68,6 +68,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://webfolio-unnati.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/54355445?v=4" width="100px;" alt=""/><br /><sub><b>Unnati Mishra</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=CodesbyUnnati" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/codermind-divya"><img src="https://avatars0.githubusercontent.com/u/49811570?v=4" width="100px;" alt=""/><br /><sub><b>Divya Jain</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=codermind-divya" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mnb27"><img src="https://avatars1.githubusercontent.com/u/52792904?v=4" width="100px;" alt=""/><br /><sub><b>Aman Bilaiya</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=mnb27" title="Code">💻</a> <a href="#ideas-mnb27" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/brijesh-kumar-887b05174"><img src="https://avatars3.githubusercontent.com/u/36602697?v=4" width="100px;" alt=""/><br /><sub><b>BRIJESH KUMAR</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=brijeshsos66" title="Code">💻</a> <a href="#design-brijeshsos66" title="Design">🎨</a></td>
   </tr>
 </table>
 
