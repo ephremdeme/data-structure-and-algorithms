@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/brijesh-kumar-887b05174"><img src="https://avatars3.githubusercontent.com/u/36602697?v=4" width="100px;" alt=""/><br /><sub><b>BRIJESH KUMAR</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=brijeshsos66" title="Code">💻</a> <a href="#design-brijeshsos66" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/ANKITAKHAN"><img src="https://avatars1.githubusercontent.com/u/44711628?v=4" width="100px;" alt=""/><br /><sub><b>ANKITA KHAN</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=ANKITAKHAN" title="Code">💻</a></td>
     <td align="center"><a href="http://nikhilrevankar.ml"><img src="https://avatars2.githubusercontent.com/u/27147431?v=4" width="100px;" alt=""/><br /><sub><b>Nikhil V Revankar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=nikhil3198" title="Code">💻</a> <a href="#design-nikhil3198" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/pranavkhapra"><img src="https://avatars2.githubusercontent.com/u/66990090?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Khapra</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=pranavkhapra" title="Code">💻</a> <a href="#design-pranavkhapra" title="Design">🎨</a></td>
   </tr>
 </table>
 
