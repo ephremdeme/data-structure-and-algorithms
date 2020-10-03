@@ -3,6 +3,7 @@
 using std::vector;
 using namespace std;
 
+// takes in a c++ vector of ones and zeroes and returns a decimal equivalent
 int binaryToDecimal(vector<int> number)
 {
     int num = 0;
