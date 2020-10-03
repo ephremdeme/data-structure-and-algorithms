@@ -390,6 +390,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "pranavkhapra",
+      "name": "Pranav Khapra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/66990090?v=4",
+      "profile": "https://github.com/pranavkhapra",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
