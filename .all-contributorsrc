@@ -390,6 +390,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "nikhil3198",
+      "name": "Nikhil V Revankar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/27147431?v=4",
+      "profile": "http://nikhilrevankar.ml",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
