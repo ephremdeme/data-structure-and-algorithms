@@ -1,0 +1,29 @@
+//Fibonacci series
+#include <stdio.h>
+
+void fib(int i, int j, int n)
+{
+   	if(n>2)
+	{
+		printf("%d\t", i+j);
+		fib(j, i+j, n-1);
+	}
+
+}
+
+int main(void) {
+	// your code goes here
+	int n;
+	int i=0; int j=1;
+	scanf("%d", &n);
+	if(n==0)
+	printf("--No terms--");
+	if(n==1)
+	printf("%d\t", i);
+	if(n>=2)
+	{
+		printf("%d\t%d\t", i, j);
+		fib(i, j, n);
+	}
+		return 0;
+}
