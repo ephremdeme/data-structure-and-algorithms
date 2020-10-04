@@ -28,7 +28,9 @@ fun fibonacciNumbers(upperLimit: Int) : List<Int> {
     }
 }
 
-fun readUpperLimit(scanner: Scanner) : Int {
+fun readUpperLimit() : Int {
+
+    val scanner = Scanner(System.`in`)
 
     while (true) {
         print("Upper limit for Fibonacci numbers: ")
@@ -44,6 +46,6 @@ fun readUpperLimit(scanner: Scanner) : Int {
 
 fun main() {
 
-    println(fibonacciNumbers(readUpperLimit(Scanner(System.`in`))))
+    println(fibonacciNumbers(readUpperLimit()))
 
 }
