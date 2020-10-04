@@ -8,10 +8,8 @@ namespace Algorithms.Graphs
 {
     public static class DepthFirstSearcher
     {
-       
         /// DFS Recursive Helper function. 
         /// Visits the neighbors of a given vertex recusively, and applies the given Action<T> to each one of them.
-       
         private static void _visitNeighbors<T>(T Vertex, ref IGraph<T> Graph, ref Dictionary<T, object> Parents, Action<T> Action) where T : IComparable<T>
         {
             foreach (var adjacent in Graph.Neighbours(Vertex))
