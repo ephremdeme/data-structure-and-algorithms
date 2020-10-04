@@ -85,6 +85,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://linktr.ee/akshatkhanna"><img src="https://avatars3.githubusercontent.com/u/32996284?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Khanna</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=khannakshat7" title="Code">💻</a> <a href="#ideas-khannakshat7" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-khannakshat7" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/amarks444"><img src="https://avatars3.githubusercontent.com/u/54015772?v=4" width="100px;" alt=""/><br /><sub><b>AMAR SHANKAR</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=amarks444" title="Code">💻</a> <a href="#ideas-amarks444" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-amarks444" title="Design">🎨</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/devansh9011"><img src="https://avatars2.githubusercontent.com/u/42490656?v=4" width="100px;" alt=""/><br /><sub><b>Devansh Sharma</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=devansh9011" title="Code">💻</a> <a href="#ideas-devansh9011" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-devansh9011" title="Design">🎨</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
