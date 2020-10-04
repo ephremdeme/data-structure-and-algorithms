@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Harshalszz"><img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100px;" alt=""/><br /><sub><b>Harshal S Zodape </b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Harshalszz" title="Code">💻</a></td>
     <td align="center"><a href="https://hannibal404.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/54623625?v=4" width="100px;" alt=""/><br /><sub><b>Pradyumn Singh Rahar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Hannibal404" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/khare-agraj"><img src="https://avatars3.githubusercontent.com/u/57792711?v=4" width="100px;" alt=""/><br /><sub><b>Agraj Khare</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=khare-agraj" title="Code">💻</a></td>
+    <td align="center"><a href="https://linktr.ee/akshatkhanna"><img src="https://avatars3.githubusercontent.com/u/32996284?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Khanna</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=khannakshat7" title="Code">💻</a> <a href="#ideas-khannakshat7" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-khannakshat7" title="Design">🎨</a></td>
   </tr>
 </table>
 
