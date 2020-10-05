@@ -25,19 +25,20 @@ void shuffle(int arr[], int size) {
 	cout << endl;
 }
 
-void bogo_sort(int arr[], int size) {
+int bogo_sort(int arr[], int size) {
 	int i = 0;
 	while (is_not_sorted(arr, size)) {
 		shuffle(arr, size);
 		i += 1;
 	}
-	cout << i << endl;
+    return i;
 }
 
 int main() {
 	int test_size = 6;
 	int test_arr[test_size] = {4, 5, 1, 3, 6, 2};
-	bogo_sort(test_arr, test_size);
+	int shuffle_counter = bogo_sort(test_arr, test_size);
+    cout << "Number of shuffles: " << shuffle_counter << endl;
 	for (int i: test_arr) {
 		cout << i << ' ';
 	}
