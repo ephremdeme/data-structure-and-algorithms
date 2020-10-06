@@ -1,0 +1,3 @@
+fun (n) = if (n = 0) then 0 if (n = 1) then 1 else fib(n-1) +fib(n-2);
+(*If n = 0 or n=1 then the program directly outputs the value which is defined for other cases fib(n) breaks into two sub problems 
+computing fib(n-1) and fib(n-2) and this chain continues till the function reaches the base case*)
