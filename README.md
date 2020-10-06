@@ -1,6 +1,7 @@
 # Implement Any Data Structure with Your Prefered Language
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+
+
+[![Contributors](https://img.shields.io/github/contributors/ephremdeme/data-structure-and-algorithms)](#contributors-)
 ![Issues](https://img.shields.io/github/issues/ephremdeme/data-structure-and-algorithms)
 ![Pull Requests](https://img.shields.io/github/issues-pr/ephremdeme/data-structure-and-algorithms)
 ![Forks](https://img.shields.io/github/forks/ephremdeme/data-structure-and-algorithms)
@@ -78,6 +79,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/SATAKSHI08"><img src="https://avatars2.githubusercontent.com/u/56965113?v=4" width="100px;" alt=""/><br /><sub><b>zn08</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=SATAKSHI08" title="Code">💻</a></td>
     <td align="center"><a href="https://cybertron-avneesh.github.io/My-Website/"><img src="https://avatars3.githubusercontent.com/u/54072374?v=4" width="100px;" alt=""/><br /><sub><b>Avneesh Kumar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Cybertron-Avneesh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Harshalszz"><img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100px;" alt=""/><br /><sub><b>Harshal S Zodape </b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Harshalszz" title="Code">💻</a></td>
+    <td align="center"><a href="https://hannibal404.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/54623625?v=4" width="100px;" alt=""/><br /><sub><b>Pradyumn Singh Rahar</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=Hannibal404" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/khare-agraj"><img src="https://avatars3.githubusercontent.com/u/57792711?v=4" width="100px;" alt=""/><br /><sub><b>Agraj Khare</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=khare-agraj" title="Code">💻</a></td>
+    <td align="center"><a href="https://linktr.ee/akshatkhanna"><img src="https://avatars3.githubusercontent.com/u/32996284?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Khanna</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=khannakshat7" title="Code">💻</a> <a href="#ideas-khannakshat7" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-khannakshat7" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/amarks444"><img src="https://avatars3.githubusercontent.com/u/54015772?v=4" width="100px;" alt=""/><br /><sub><b>AMAR SHANKAR</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=amarks444" title="Code">💻</a> <a href="#ideas-amarks444" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-amarks444" title="Design">🎨</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/devansh9011"><img src="https://avatars2.githubusercontent.com/u/42490656?v=4" width="100px;" alt=""/><br /><sub><b>Devansh Sharma</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=devansh9011" title="Code">💻</a> <a href="#ideas-devansh9011" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-devansh9011" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/juanmagutierrez"><img src="https://avatars0.githubusercontent.com/u/32749968?v=4" width="100px;" alt=""/><br /><sub><b>juanmagutierrez</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=juanmagutierrez" title="Code">💻</a> <a href="#ideas-juanmagutierrez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-juanmagutierrez" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/bamblebam"><img src="https://avatars3.githubusercontent.com/u/53450613?v=4" width="100px;" alt=""/><br /><sub><b>Burhanuddin Rangwala</b></sub></a><br /><a href="https://github.com/ephremdeme/data-structure-and-algorithms/commits?author=bamblebam" title="Code">💻</a> <a href="#ideas-bamblebam" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
