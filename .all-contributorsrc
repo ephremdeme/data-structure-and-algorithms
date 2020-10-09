@@ -509,6 +509,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "zafar-hussain",
+      "name": "zafar hussain",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7498674?v=4",
+      "profile": "https://www.facebook.com/zafar.hussain2000",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
