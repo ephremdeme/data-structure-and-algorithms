@@ -381,9 +381,148 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "ANKITAKHAN",
+      "name": "ANKITA KHAN",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44711628?v=4",
+      "profile": "https://github.com/ANKITAKHAN",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nikhil3198",
+      "name": "Nikhil V Revankar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/27147431?v=4",
+      "profile": "http://nikhilrevankar.ml",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "pranavkhapra",
+      "name": "Pranav Khapra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/66990090?v=4",
+      "profile": "https://github.com/pranavkhapra",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "SATAKSHI08",
+      "name": "zn08",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/56965113?v=4",
+      "profile": "https://github.com/SATAKSHI08",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Cybertron-Avneesh",
+      "name": "Avneesh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54072374?v=4",
+      "profile": "https://cybertron-avneesh.github.io/My-Website/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Harshalszz",
+      "name": "Harshal S Zodape ",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/61976596?v=4",
+      "profile": "https://github.com/Harshalszz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Hannibal404",
+      "name": "Pradyumn Singh Rahar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/54623625?v=4",
+      "profile": "https://hannibal404.netlify.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "khare-agraj",
+      "name": "Agraj Khare",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57792711?v=4",
+      "profile": "https://github.com/khare-agraj",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "khannakshat7",
+      "name": "Akshat Khanna",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32996284?v=4",
+      "profile": "https://linktr.ee/akshatkhanna",
+      "contributions": [
+        "code",
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "login": "amarks444",
+      "name": "AMAR SHANKAR",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54015772?v=4",
+      "profile": "https://github.com/amarks444",
+      "contributions": [
+        "code",
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "login": "devansh9011",
+      "name": "Devansh Sharma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/42490656?v=4",
+      "profile": "https://github.com/devansh9011",
+      "contributions": [
+        "code",
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "login": "juanmagutierrez",
+      "name": "juanmagutierrez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32749968?v=4",
+      "profile": "https://github.com/juanmagutierrez",
+      "contributions": [
+        "code",
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "login": "bamblebam",
+      "name": "Burhanuddin Rangwala",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/53450613?v=4",
+      "profile": "https://github.com/bamblebam",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "zafar-hussain",
+      "name": "zafar hussain",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7498674?v=4",
+      "profile": "https://www.facebook.com/zafar.hussain2000",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "projectName": "data-structure-and-algorithms",
   "projectOwner": "ephremdeme",
   "repoType": "github",
